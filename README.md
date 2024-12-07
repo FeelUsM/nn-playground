@@ -1,3 +1,5 @@
+![Build Status](https://github.com/FeelUsM/nn-playground/actions/workflows/deploy.yml/badge.svg)
+
 # Deep playground
 
 Deep playground is an interactive visualization of neural networks, written in
